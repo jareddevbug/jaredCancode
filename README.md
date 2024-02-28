@@ -7,7 +7,7 @@ Web and Desktop app developer
 I've been exploring coding for 2 years, and I am currently at my fourth grade in college. I am eager to learn new things.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [Portfolio not published yet](http://empt)
+* 🖥️  See my portfolio at [Currently on progress](https://jaredcancode.github.io/JaredSfDev/)
 * ✉️  You can contact me at [jaredsfdev@gmail.com](mailto:jaredsfdev@gmail.com)
 * 🚀  I'm currently working on [Capstone project for a coffee shop (Desktop, mobile, and web app).](http://emp)
 * 🧠  I'm learning Javascript
