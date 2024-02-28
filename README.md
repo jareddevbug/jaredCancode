@@ -9,7 +9,7 @@ I've been exploring coding for 2 years, and I am currently at my fourth grade in
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [Currently on progress](https://jaredcancode.github.io/JaredSfDev/)
 * ✉️  You can contact me at [jaredsfdev@gmail.com](mailto:jaredsfdev@gmail.com)
-* 🚀  I'm currently working on [Capstone project for a coffee shop (Desktop, mobile, and web app).](http://emp)
+* 🚀  I'm currently exploring on [Other trending frameworks, tools, and Mobile app development.](http://emp)
 * 🧠  I'm learning Javascript
 * ⚡  I love astronomy
 
